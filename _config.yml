@@ -1,7 +1,6 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Dipanwita Thakur
+name: Dipanwita Thakur
 
 # Build settings
 markdown: kramdown
@@ -22,11 +21,9 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
+ - MATLAB
+ - Python
+ - Mininet
  - API design
  - Groovy
  - Spring MVC/Boot/Social
@@ -43,10 +40,10 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Assistant Professor
+   start: 2008
    end: Ongoing
-   employer: Basement Crowd
+   employer: Banasthali Vidyapith
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
  - title: Senior Engineer
    start: 2016
